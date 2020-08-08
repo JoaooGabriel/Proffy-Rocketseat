@@ -62,15 +62,13 @@
     margin-top: 0 !important;
 }
 
-/* #page-teacher-form  main fieldset .buttonRemoveSchedule {
-    background: none;
-    border: 0;
-    padding-top: 1.6rem;
-    
-    color: 700 1.6rem Archivo;
+#page-teacher-form  main fieldset .buttonRemoveSchedule {
+    margin-top: 1rem;
     cursor: pointer;
-    transition: color 0.2s;
-} */
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-right: auto;
+}
 
 #page-teacher-form  main fieldset .input-block + .textarea-block,
 #page-teacher-form  main fieldset .select-block + .input-block {
